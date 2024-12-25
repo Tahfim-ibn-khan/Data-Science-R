@@ -29,8 +29,7 @@
     <h1>Data Science Project - Titanic Dataset</h1>
     <h2>Project Description</h2>
     <p>This project involves analyzing a modified version of the Titanic dataset, which includes information such as passenger demographics, ticket class, fare, and survival status. The primary goal is to preprocess the data for further analysis and predictive modeling. Key steps include data cleaning, handling missing values, outlier detection, data transformation, and class balancing.</p>
-
-    <h2>Preprocessing Steps</h2>
+<h2>Preprocessing Steps</h2>
     <ul>
         <li><strong>Library Installation and Loading:</strong> Installed and loaded necessary libraries (`dplyr`, `tibble`, `ggplot2`, `ROSE`).</li>
         <li><strong>Data Loading and Inspection:</strong> Loaded the dataset and checked its structure, data types, and missing values.</li>
@@ -56,8 +55,8 @@
         <li><strong>Data Transformation:</strong> Converted categorical variables into factors with appropriate labels.</li>
         <li><strong>Data Balancing:</strong> Addressed class imbalance in the `survived` variable using the `ROSE` package for oversampling and undersampling.</li>
     </ul>
-
     <h2>Conclusion</h2>
     <p>Through this project, various data preparation steps were successfully applied, including data cleaning, descriptive statistics calculation, and dataset balancing. These steps are vital for preparing data for further analysis and predictive modeling, ensuring robust and accurate results.</p>
+    
 </body>
 </html>
