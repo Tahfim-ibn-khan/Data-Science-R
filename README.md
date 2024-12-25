@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>Data Science Project - Titanic Dataset</h1>
+    <h1>Data Science Project - Titanic Dataset(Preprocessing)</h1>
     <h2>Project Description</h2>
     <p>This project involves analyzing a modified version of the Titanic dataset, which includes information such as passenger demographics, ticket class, fare, and survival status. The primary goal is to preprocess the data for further analysis and predictive modeling. Key steps include data cleaning, handling missing values, outlier detection, data transformation, and class balancing.</p>
 <h2>Preprocessing Steps</h2>
